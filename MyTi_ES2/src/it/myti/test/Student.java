@@ -5,6 +5,9 @@ import java.time.Period;
 
 /**
  * Questa classe descrive un oggetto Student con specifiche proprietà
+ * Ho supposto (come da specifiche) che la lista dei voti sia complessivamente una stringa
+ * per semplicità ogni voto è separato da un "-". Non essendoci interazione con l'utente
+ * non ci sono controlli sul formato.
  * @author Francesco Palberti
  */
 
